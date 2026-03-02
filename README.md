@@ -1,0 +1,2 @@
+# autonomous-self-healing-trading-ecosystem--asht-
+**TITLE:** Autonomous Self-Healing Trading Ecosystem (ASHT)**DESCRIPTION:**  This project aims to create a self-contained AI trading system that autonomously improves through continuous feedback loops. It will use reinforcement learning for strategy adjustments and neural networks with attention mechanisms to identify and rectify performance issues
